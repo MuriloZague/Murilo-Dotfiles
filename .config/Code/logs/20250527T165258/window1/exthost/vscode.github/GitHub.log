@@ -1,0 +1,4 @@
+2025-05-27 16:53:02.597 [info] Log level: Info
+2025-05-27 16:55:32.450 [info] Log level: Info
+2025-05-27 16:55:36.688 [warning] [GitHubBranchProtectionProvider][updateRepositoryBranchProtection] Failed to update repository branch protection: No GitHub authentication session available.
+2025-05-27 16:56:27.078 [warning] [GitHubSourceControlHistoryItemDetailsProvider][_loadAssignableUsers] Failed to load assignable user(s) for MuriloZague/acessibilidade-site: Error: No GitHub authentication session available.

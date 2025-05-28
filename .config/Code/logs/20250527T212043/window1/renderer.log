@@ -1,0 +1,32 @@
+2025-05-27 21:20:45.116 [info] Started local extension host with pid 15037.
+2025-05-27 21:20:45.156 [info] ComputeTargetPlatform: linux-x64
+2025-05-27 21:20:45.204 [info] ChatSessionStore: Migrating 0 chat sessions from storage service to file system
+2025-05-27 21:20:46.143 [info] Settings Sync: Account status changed from uninitialized to unavailable
+2025-05-27 21:20:50.113 [info] [perf] Render performance baseline is 34ms
+2025-05-27 21:30:50.317 [error] No registered selector for ID: copilot-chat.fixWithCopilot
+2025-05-27 21:30:50.317 [error] No registered selector for ID: copilot-chat.generateCommitMessage
+2025-05-27 21:30:50.367 [error] No registered selector for ID: copilot-chat.terminalToDebugging
+2025-05-27 21:30:50.367 [error] No registered selector for ID: copilot-chat.terminalToDebuggingSuccess
+2025-05-27 21:31:31.619 [error] [Extension Host] [AsyncCompletionManager] [4d7260a2-bd68-46ab-9807-abbf8b3ece7d] Request errored with AbortError: The operation was aborted.
+    at EventEmitter.abortHandler (/home/murilo/.vscode/extensions/github.copilot-1.323.0/node_modules/@adobe/helix-fetch/src/fetch/index.js:106:17)
+    at EventEmitter.emit (node:events:524:28)
+    at qB.dispatchEvent (/home/murilo/.vscode/extensions/github.copilot-1.323.0/node_modules/@adobe/helix-fetch/src/fetch/abort.js:67:41)
+    at qB.fire (/home/murilo/.vscode/extensions/github.copilot-1.323.0/node_modules/@adobe/helix-fetch/src/fetch/abort.js:72:10)
+    at $7.abort (/home/murilo/.vscode/extensions/github.copilot-1.323.0/node_modules/@adobe/helix-fetch/src/fetch/abort.js:137:39)
+    at /home/murilo/.vscode/extensions/github.copilot-1.323.0/lib/src/networking.ts:254:19
+    at yZ.invoke (/home/murilo/.vscode/extensions/github.copilot-1.323.0/node_modules/vscode-jsonrpc/lib/common/events.js:55:39)
+    at e.fire (/home/murilo/.vscode/extensions/github.copilot-1.323.0/node_modules/vscode-jsonrpc/lib/common/events.js:117:36)
+    at CT.cancel (/home/murilo/.vscode/extensions/github.copilot-1.323.0/node_modules/vscode-jsonrpc/lib/common/cancellation.js:41:31)
+    at _Z.cancel (/home/murilo/.vscode/extensions/github.copilot-1.323.0/node_modules/vscode-jsonrpc/lib/common/cancellation.js:82:25)
+    at Ll.cancelRequest (/home/murilo/.vscode/extensions/github.copilot-1.323.0/lib/src/ghostText/asyncCompletions.ts:270:41)
+    at Ll.getFirstMatchingRequest (/home/murilo/.vscode/extensions/github.copilot-1.323.0/lib/src/ghostText/asyncCompletions.ts:247:22)
+    at /home/murilo/.vscode/extensions/github.copilot-1.323.0/lib/src/ghostText/ghostText.ts:995:54
+    at getGhostText (/home/murilo/.vscode/extensions/github.copilot-1.323.0/lib/src/ghostText/ghostText.ts:1155:16)
+    at getInlineCompletionsResult (/home/murilo/.vscode/extensions/github.copilot-1.323.0/lib/src/inlineCompletion.ts:30:20)
+    at getInlineCompletions (/home/murilo/.vscode/extensions/github.copilot-1.323.0/lib/src/inlineCompletion.ts:75:20)
+    at N$.provideInlineCompletionItems (/home/murilo/.vscode/extensions/github.copilot-1.323.0/extension/src/ghostText/ghostText.ts:47:32)
+    at ice.provideInlineCompletionItems (/home/murilo/.vscode/extensions/github.copilot-1.323.0/extension/src/inlineCompletion.ts:84:25)
+    at _n.provideInlineCompletions (file:///usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:145:143304) {
+  type: 'aborted',
+  _name: 'AbortError'
+}

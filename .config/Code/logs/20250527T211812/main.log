@@ -1,0 +1,10 @@
+2025-05-27 21:18:12.982 [error] Invalid path provided: /home/murilo/Área de trabalho/Fatec/Acessibilidade/acessibilidade-site, ENOENT: no such file or directory, stat '/home/murilo/Área de trabalho/Fatec/Acessibilidade/acessibilidade-site'
+2025-05-27 21:18:13.071 [info] update#setState idle
+2025-05-27 21:18:43.073 [info] update#setState checking for updates
+2025-05-27 21:18:43.709 [info] update#setState idle
+2025-05-27 21:19:10.636 [info] Extension host with pid 13990 exited with code: 0, signal: unknown.
+2025-05-27 21:19:10.642 [error] [UtilityProcess id: 1, type: fileWatcher, pid: 13971]: crashed with code 15 and reason 'killed'
+2025-05-27 21:20:03.692 [info] Extension host with pid 14305 exited with code: 0, signal: unknown.
+2025-05-27 21:20:03.741 [error] [UtilityProcess id: 1, type: fileWatcher, pid: 14295]: crashed with code 15 and reason 'killed'
+2025-05-27 21:20:41.436 [info] Extension host with pid 14516 exited with code: 0, signal: unknown.
+2025-05-27 21:20:41.446 [error] [UtilityProcess id: 1, type: fileWatcher, pid: 14514]: crashed with code 15 and reason 'killed'

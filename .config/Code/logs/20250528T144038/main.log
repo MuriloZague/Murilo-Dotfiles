@@ -1,0 +1,5 @@
+2025-05-28 14:40:38.274 [error] Invalid path provided: /run/media/murilo/01DBCCCC74E793D0/Users/Murilo/Desktop/Fatec/Sitios-Internet/Exercícios/exercicios2705, ENOENT: no such file or directory, stat '/run/media/murilo/01DBCCCC74E793D0/Users/Murilo/Desktop/Fatec/Sitios-Internet/Exercícios/exercicios2705'
+2025-05-28 14:40:38.274 [info] update#setState idle
+2025-05-28 14:41:08.260 [info] update#setState checking for updates
+2025-05-28 14:41:08.570 [info] update#setState idle
+2025-05-28 14:41:46.096 [info] Extension host with pid 21756 exited with code: 0, signal: unknown.

@@ -1,0 +1,11 @@
+2025-05-28 14:40:39.724 [info] Started local extension host with pid 21756.
+2025-05-28 14:40:40.170 [info] ComputeTargetPlatform: linux-x64
+2025-05-28 14:40:41.344 [info] Settings Sync: Account status changed from uninitialized to unavailable
+2025-05-28 14:40:42.748 [info] [perf] Render performance baseline is 49ms
+2025-05-28 14:41:38.402 [error] [Extension Host] (node:21756) [DEP0005] DeprecationWarning: Buffer() is deprecated due to security and usability issues. Please use the Buffer.alloc(), Buffer.allocUnsafe(), or Buffer.from() methods instead.
+(Use `exe --trace-deprecation ...` to show where the warning was created)
+2025-05-28 14:41:47.311 [info] Started local extension host with pid 22523.
+2025-05-28 14:41:47.340 [info] ComputeTargetPlatform: linux-x64
+2025-05-28 14:41:48.246 [info] ChatSessionStore: Migrating 0 chat sessions from storage service to file system
+2025-05-28 14:41:48.957 [info] Settings Sync: Account status changed from uninitialized to unavailable
+2025-05-28 14:41:50.370 [info] [perf] Render performance baseline is 50ms

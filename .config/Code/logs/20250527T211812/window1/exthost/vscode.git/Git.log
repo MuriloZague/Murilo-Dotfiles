@@ -1,0 +1,27 @@
+2025-05-27 21:18:16.059 [info] [main] Log level: Info
+2025-05-27 21:18:16.059 [info] [main] Validating found git in: "git"
+2025-05-27 21:18:16.059 [info] [main] Using git "2.49.0" from "git"
+2025-05-27 21:18:16.059 [info] [Model][doInitialScan] Initial repository scan started
+2025-05-27 21:18:16.059 [info] [Model][doInitialScan] Initial repository scan completed - repositories (0), closed repositories (0), parent repositories (0), unsafe repositories (0)
+2025-05-27 21:19:14.676 [info] [main] Log level: Info
+2025-05-27 21:19:14.676 [info] [main] Validating found git in: "git"
+2025-05-27 21:19:14.676 [info] [main] Using git "2.49.0" from "git"
+2025-05-27 21:19:14.676 [info] [Model][doInitialScan] Initial repository scan started
+2025-05-27 21:19:14.676 [info] > git rev-parse --show-toplevel [8ms]
+2025-05-27 21:19:14.676 [info] fatal: not a git repository (or any parent up to mount point /)
+Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).
+2025-05-27 21:19:14.677 [info] [Model][doInitialScan] Initial repository scan completed - repositories (0), closed repositories (0), parent repositories (0), unsafe repositories (0)
+2025-05-27 21:19:19.003 [info] > git rev-parse --show-toplevel [5ms]
+2025-05-27 21:19:19.004 [info] fatal: not a git repository (or any parent up to mount point /)
+Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).
+2025-05-27 21:19:58.295 [info] > git rev-parse --show-toplevel [10ms]
+2025-05-27 21:19:58.295 [info] fatal: not a git repository (or any parent up to mount point /)
+Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).
+2025-05-27 21:20:00.636 [info] > git rev-parse --show-toplevel [2ms]
+2025-05-27 21:20:00.636 [info] fatal: not a git repository (or any parent up to mount point /)
+Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).
+2025-05-27 21:20:06.233 [info] [main] Log level: Info
+2025-05-27 21:20:06.233 [info] [main] Validating found git in: "git"
+2025-05-27 21:20:06.233 [info] [main] Using git "2.49.0" from "git"
+2025-05-27 21:20:06.233 [info] [Model][doInitialScan] Initial repository scan started
+2025-05-27 21:20:06.233 [info] [Model][doInitialScan] Initial repository scan completed - repositories (0), closed repositories (0), parent repositories (0), unsafe repositories (0)

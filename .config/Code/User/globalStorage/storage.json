@@ -1,0 +1,95 @@
+{
+    "telemetry.sqmId": "",
+    "telemetry.machineId": "b781b2890d21043c5691ac851e855c08fde2b062258447565522a75293fc1223",
+    "telemetry.devDeviceId": "4c7f3aa9-83ed-4c45-b0c4-99c7327f6859",
+    "backupWorkspaces": {
+        "workspaces": [],
+        "folders": [
+            {
+                "folderUri": "file:///home/murilo/Projects/Murilo-Dotfiles"
+            }
+        ],
+        "emptyWindows": [
+            {
+                "backupFolder": "1748454038879"
+            }
+        ]
+    },
+    "windowControlHeight": 42,
+    "profileAssociations": {
+        "workspaces": {
+            "file:///home/murilo/%C3%81rea%20de%20trabalho/Fatec/Acessibilidade/acessibilidade-site": "__default__profile__",
+            "file:///home/murilo/%C3%81rea%20de%20trabalho": "__default__profile__",
+            "file:///run/media/murilo/01DBCCCC74E793D0/Users/Murilo/Desktop/Fatec/Sitios-Internet/Exerc%C3%ADcios/exercicios2705": "__default__profile__",
+            "file:///home/murilo/Projects/Murilo-Dotfiles": "__default__profile__"
+        },
+        "emptyWindows": {
+            "1748454038879": "__default__profile__"
+        }
+    },
+    "windowsState": {
+        "lastActiveWindow": {
+            "folder": "file:///home/murilo/Projects/Murilo-Dotfiles",
+            "backupPath": "/home/murilo/.config/Code/Backups/ae351033b3770bc6c8da17620f7666e8",
+            "uiState": {
+                "mode": 0,
+                "x": 0,
+                "y": 0,
+                "width": 960,
+                "height": 1037,
+                "zoomLevel": 1
+            }
+        },
+        "openedWindows": []
+    },
+    "theme": "vs-dark",
+    "themeBackground": "#1f1f1f",
+    "windowSplash": {
+        "zoomLevel": 0,
+        "baseTheme": "vs-dark",
+        "colorInfo": {
+            "foreground": "#cccccc",
+            "background": "#1f1f1f",
+            "editorBackground": "#1f1f1f",
+            "titleBarBackground": "#181818",
+            "titleBarBorder": "#2b2b2b",
+            "activityBarBackground": "#181818",
+            "activityBarBorder": "#2b2b2b",
+            "sideBarBackground": "#181818",
+            "sideBarBorder": "#2b2b2b",
+            "statusBarBackground": "#181818",
+            "statusBarBorder": "#2b2b2b",
+            "statusBarNoFolderBackground": "#1f1f1f"
+        },
+        "layoutInfo": {
+            "sideBarSide": "left",
+            "editorPartMinWidth": 220,
+            "titleBarHeight": 35,
+            "activityBarWidth": 48,
+            "sideBarWidth": 170,
+            "auxiliarySideBarWidth": 0,
+            "statusBarHeight": 22,
+            "windowBorder": false
+        }
+    },
+    "windowSplashWorkspaceOverride": {
+        "layoutInfo": {
+            "sideBarWidth": 170,
+            "auxiliaryBarWidth": 237,
+            "workspaces": {
+                "ff23e490c00ca5d1deff9c4b988787a1": {
+                    "sideBarVisible": true,
+                    "auxiliaryBarVisible": false
+                },
+                "9771ba3c532a208f7f91f01d41d4eec4": {
+                    "sideBarVisible": true,
+                    "auxiliaryBarVisible": false
+                },
+                "558cc4b222e4b8e841300ecd3b98637b": {
+                    "sideBarVisible": true,
+                    "auxiliaryBarVisible": false
+                }
+            }
+        }
+    }
+}

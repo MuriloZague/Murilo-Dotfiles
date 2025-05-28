@@ -1,0 +1,7 @@
+{
+    "editor.fontFamily": "'Fira Code', 'monospace', monospace",
+    "editor.fontSize": 16,
+    "liveServer.settings.donotShowInfoMsg": true,
+    "editor.stickyScroll.enabled": false,
+    "editor.minimap.enabled": false
+}

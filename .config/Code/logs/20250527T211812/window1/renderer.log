@@ -1,0 +1,13 @@
+2025-05-27 21:18:14.052 [info] Started local extension host with pid 13990.
+2025-05-27 21:18:14.317 [info] ComputeTargetPlatform: linux-x64
+2025-05-27 21:18:15.034 [info] Settings Sync: Account status changed from uninitialized to unavailable
+2025-05-27 21:18:19.809 [info] [perf] Render performance baseline is 34ms
+2025-05-27 21:19:11.320 [info] Started local extension host with pid 14305.
+2025-05-27 21:19:11.342 [info] ComputeTargetPlatform: linux-x64
+2025-05-27 21:19:11.821 [info] ChatSessionStore: Migrating 0 chat sessions from storage service to file system
+2025-05-27 21:19:12.249 [info] Settings Sync: Account status changed from uninitialized to unavailable
+2025-05-27 21:19:14.056 [info] [perf] Render performance baseline is 34ms
+2025-05-27 21:20:04.500 [info] Started local extension host with pid 14516.
+2025-05-27 21:20:04.528 [info] ComputeTargetPlatform: linux-x64
+2025-05-27 21:20:05.443 [info] Settings Sync: Account status changed from uninitialized to unavailable
+2025-05-27 21:20:07.403 [info] [perf] Render performance baseline is 35ms

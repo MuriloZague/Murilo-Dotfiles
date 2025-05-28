@@ -1,0 +1,8 @@
+2025-05-27 16:53:01.402 [info] ComputeTargetPlatform: linux-x64
+2025-05-27 16:54:05.389 [info] ComputeTargetPlatform: linux-x64
+2025-05-27 16:56:18.927 [info] Getting Manifest... ritwickdey.liveserver
+2025-05-27 16:56:19.040 [info] Installing extension: ritwickdey.liveserver {"isMachineScoped":false,"installPreReleaseVersion":false,"pinned":false,"profileLocation":{"$mid":1,"external":"vscode-userdata:/home/murilo/.vscode/extensions/extensions.json","path":"/home/murilo/.vscode/extensions/extensions.json","scheme":"vscode-userdata"},"isApplicationScoped":false,"productVersion":{"version":"1.100.2","date":"2025-05-14T21:47:40.416Z"}}
+2025-05-27 16:56:22.772 [info] Extension signature verification result for ritwickdey.liveserver: Success. Internal Code: 0. Executed: true. Duration: 2948ms.
+2025-05-27 16:56:30.980 [info] Extracted extension to file:///home/murilo/.vscode/extensions/ritwickdey.liveserver-5.7.9: ritwickdey.liveserver
+2025-05-27 16:56:31.295 [info] Renamed to /home/murilo/.vscode/extensions/ritwickdey.liveserver-5.7.9
+2025-05-27 16:56:31.324 [info] Extension installed successfully: ritwickdey.liveserver vscode-userdata:/home/murilo/.vscode/extensions/extensions.json

@@ -1,0 +1,55 @@
+2025-05-27 16:53:02.596 [info] [main] Log level: Info
+2025-05-27 16:53:02.596 [info] [main] Validating found git in: "git"
+2025-05-27 16:53:02.596 [info] [main] Using git "2.49.0" from "git"
+2025-05-27 16:53:02.596 [info] [Model][doInitialScan] Initial repository scan started
+2025-05-27 16:53:02.596 [info] [Model][doInitialScan] Initial repository scan completed - repositories (0), closed repositories (0), parent repositories (0), unsafe repositories (0)
+2025-05-27 16:55:36.389 [info] [main] Log level: Info
+2025-05-27 16:55:36.389 [info] [main] Validating found git in: "git"
+2025-05-27 16:55:36.389 [info] [main] Using git "2.49.0" from "git"
+2025-05-27 16:55:36.389 [info] [Model][doInitialScan] Initial repository scan started
+2025-05-27 16:55:36.389 [info] > git rev-parse --show-toplevel [10ms]
+2025-05-27 16:55:36.391 [info] > git rev-parse --path-format=relative --show-toplevel [7ms]
+2025-05-27 16:55:36.414 [info] > git rev-parse --git-dir --git-common-dir [7ms]
+2025-05-27 16:55:36.438 [info] [Model][openRepository] Opened repository (path): /home/murilo/Área de trabalho/Fatec/Acessibilidade/acessibilidade-site
+2025-05-27 16:55:36.438 [info] [Model][openRepository] Opened repository (real path): /run/media/murilo/01DBCCCC74E793D0/Users/Murilo/Desktop/Fatec/Acessibilidade/acessibilidade-site
+2025-05-27 16:55:36.485 [info] > git config --get commit.template [26ms]
+2025-05-27 16:55:36.503 [info] > git rev-parse --show-toplevel [25ms]
+2025-05-27 16:55:36.521 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [20ms]
+2025-05-27 16:55:36.560 [info] > git rev-parse --path-format=relative --show-toplevel [43ms]
+2025-05-27 16:55:36.566 [info] [Model][doInitialScan] Initial repository scan completed - repositories (1), closed repositories (0), parent repositories (0), unsafe repositories (0)
+2025-05-27 16:55:36.569 [info] > git status -z -uall [28ms]
+2025-05-27 16:55:36.576 [info] > git for-each-ref --sort -committerdate --format %(refname)%00%(objectname)%00%(*objectname) [18ms]
+2025-05-27 16:55:36.649 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [25ms]
+2025-05-27 16:55:36.680 [info] > git config --get commit.template [33ms]
+2025-05-27 16:55:36.689 [info] > git config --get --local branch.main.vscode-merge-base [25ms]
+2025-05-27 16:55:36.705 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [28ms]
+2025-05-27 16:55:36.734 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/origin/main refs/remotes/origin/main [31ms]
+2025-05-27 16:55:36.752 [info] > git status -z -uall [32ms]
+2025-05-27 16:55:36.752 [info] > git for-each-ref --sort -committerdate --format %(refname)%00%(objectname)%00%(*objectname) [19ms]
+2025-05-27 16:55:36.780 [info] > git merge-base refs/heads/main refs/remotes/origin/main [30ms]
+2025-05-27 16:55:36.800 [info] > git merge-base refs/heads/main refs/remotes/origin/main [25ms]
+2025-05-27 16:55:36.816 [info] > git diff --name-status -z --diff-filter=ADMR 613936ebb458e6d45b3131ed144cf9f75b53f357...refs/remotes/origin/main [22ms]
+2025-05-27 16:55:36.846 [info] > git diff --name-status -z --diff-filter=ADMR 613936ebb458e6d45b3131ed144cf9f75b53f357...refs/remotes/origin/main [31ms]
+2025-05-27 16:55:37.029 [info] > git check-ignore -v -z --stdin [28ms]
+2025-05-27 16:55:39.935 [info] > git show --textconv :index.html [83ms]
+2025-05-27 16:55:39.935 [info] > git ls-files --stage -- index.html [68ms]
+2025-05-27 16:55:39.959 [info] > git cat-file -s 622ef3e9c161abf80a402569e2b02fd6407e038f [11ms]
+2025-05-27 16:55:58.194 [info] > git show --textconv :index.html [14ms]
+2025-05-27 16:55:58.202 [info] > git ls-files --stage -- index.html [8ms]
+2025-05-27 16:55:58.225 [info] > git cat-file -s 622ef3e9c161abf80a402569e2b02fd6407e038f [11ms]
+2025-05-27 16:55:59.100 [info] > git blame --root --incremental 613936ebb458e6d45b3131ed144cf9f75b53f357 -- index.html [34ms]
+2025-05-27 16:56:26.916 [info] > git log --format=%H%n%aN%n%aE%n%at%n%ct%n%P%n%D%n%B -z --shortstat --diff-merges=first-parent -n50 --skip=0 --topo-order --decorate=full --stdin [117ms]
+2025-05-27 16:56:27.552 [info] > git check-ignore -v -z --stdin [25ms]
+2025-05-27 16:56:31.674 [info] > git show --textconv :index.html [17ms]
+2025-05-27 16:56:31.679 [info] > git ls-files --stage -- index.html [8ms]
+2025-05-27 16:56:31.706 [info] > git cat-file -s 622ef3e9c161abf80a402569e2b02fd6407e038f [13ms]
+2025-05-27 16:59:37.650 [info] > git show -s --decorate=full --shortstat --format=%H%n%aN%n%aE%n%at%n%ct%n%P%n%D%n%B -z 6c182b0b19683a9675cf0ebedd86b2f9fc5b6bd5 -- [18ms]
+2025-05-27 16:59:37.669 [info] > git hash-object -t tree /dev/null [7ms]
+2025-05-27 16:59:37.695 [info] > git diff-tree -r --name-status -z --diff-filter=ADMR --find-renames=50% 4b825dc642cb6eb9a060e54bf8d69288fbee4904 6c182b0b19683a9675cf0ebedd86b2f9fc5b6bd5 [13ms]
+2025-05-27 16:59:37.842 [info] > git show --textconv 6c182b0b19683a9675cf0ebedd86b2f9fc5b6bd5:index.html [79ms]
+2025-05-27 16:59:37.843 [info] > git show --textconv 6c182b0b19683a9675cf0ebedd86b2f9fc5b6bd5:sobre.html [62ms]
+2025-05-27 16:59:37.843 [info] > git show --textconv 6c182b0b19683a9675cf0ebedd86b2f9fc5b6bd5:styles.css [46ms]
+2025-05-27 16:59:37.843 [info] > git ls-tree -l 6c182b0b19683a9675cf0ebedd86b2f9fc5b6bd5 -- sobre.html [18ms]
+2025-05-27 16:59:37.844 [info] > git ls-tree -l 6c182b0b19683a9675cf0ebedd86b2f9fc5b6bd5 -- index.html [32ms]
+2025-05-27 16:59:37.853 [info] > git ls-tree -l 6c182b0b19683a9675cf0ebedd86b2f9fc5b6bd5 -- styles.css [13ms]
+2025-05-27 16:59:38.394 [info] > git check-ignore -v -z --stdin [13ms]
